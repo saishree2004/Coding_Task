@@ -161,8 +161,9 @@ one shipment rather than splitting across two warehouses.
 
 
 Quantitative and logistic reasoning
+
 System Parameters
-ParameterValueTime to process one order 2 seconds Orders handled simultaneously 5 (parallel)Timeframe being evaluated1 minute
+ParameterValueTime to process one order 2 seconds Orders handled simultaneously 5 (parallel) Timeframe being evaluated1 minute
 
 Q1 — Throughput Calculation
 Question: Given the system processes each order in 2 seconds and handles
