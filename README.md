@@ -57,6 +57,8 @@ Log everything, build dashboards, set up automatic alerts when something goes wr
 
 
 
+
+
 Problem-solving
 
 The Situation
@@ -154,6 +156,8 @@ I assumed we cannot wait for a restock before shipping.
 If Warehouse A was due a Shampoo delivery in one hour,
 it might make sense to wait and consolidate everything into
 one shipment rather than splitting across two warehouses.
+
+
 
 
 Quantitative and logistic reasoning
